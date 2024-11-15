@@ -5,7 +5,7 @@
 # Setup
 * Plug in your arduino pro micro
 * Ensure it is selected in the IDE
-* Paste in the `ChromeAutoEnrollV130.ino` from this repository
+* Paste in the [ChromeAutoEnrollV130.ino](ChromeAutoEnrollV130.ino) from this repository
 * Upload to the Arduino
   * NOTE: The Arduino will automatically start running the script after it is uploaded, You may want to unplug it after the upload finishes
 
